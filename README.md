@@ -1,6 +1,4 @@
 # Little Taco Shop site
-## This is my HTML + CSS project
-
 
 ### Menu page
 
