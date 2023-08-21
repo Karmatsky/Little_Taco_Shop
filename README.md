@@ -24,5 +24,3 @@
 
 ![Mobile view horizontal](https://raw.githubusercontent.com/Karmatsky/Little_Taco_Shop/main/sample%20pictures/Mobile%20view%20horizontal.png?token=GHSAT0AAAAAAB7TQR74ZGOISDM77ENAJLS4ZHDEREA)
 
-### Dark theme
-![Dark theme](https://raw.githubusercontent.com/Karmatsky/Little_Taco_Shop/main/sample%20pictures/Dark%20theme.png?token=GHSAT0AAAAAAB7TQR74VDLGVTA4MLTCQWI2ZHDEKUA)
